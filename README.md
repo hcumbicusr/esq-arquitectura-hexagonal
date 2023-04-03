@@ -1,0 +1,1 @@
+# esq-arquitectura-hexagonal
